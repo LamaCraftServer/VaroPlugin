@@ -1,5 +1,5 @@
+# VaroPlugin forked by LLCS
 ![](https://i.imgur.com/AnIMIbN.png")
-  
 A versatile Spigot/Paper plugin designed for the Varo, ODV, SuRo, and Titan game modes. It features a built-in Discord bot that seamlessly broadcasts in-game events straight to your Discord server. With extensive configuration files and an intuitive in-game menu, almost everything can be adjusted to your liking.
 
 **The plugin has not yet been fully translated into English, some messages may only be available in German!**
